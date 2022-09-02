@@ -1,6 +1,6 @@
 # sudo-ape
 
-Price charts for sudooooo swap using ApeWorX
+Charts for sudooooo swap using ApeWorX
 
 
 ## TODOs
