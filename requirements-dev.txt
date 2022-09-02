@@ -1,0 +1,4 @@
+eth-ape==0.4.5
+notebook==6.4.12
+matplotlib==3.5.3
+mplfinance==0.12.9b1
