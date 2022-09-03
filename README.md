@@ -5,7 +5,7 @@ Charts for sudooooo swap using ApeWorX
 
 ## Setup
 
-Most of the sudoswap pair contracts `LSSVMPair.sol` are **not** verified on Etherscan, so I went for a manual workaround by compiling locally in this project. This allows using ApeWorX's out-of-the-box `Contract` functionality to query for the events we care about.
+Most of the [sudoswap](https://github.com/sudoswap/lssvm) pair contracts `LSSVMPair.sol` are **not** verified on Etherscan, so I went for a manual workaround by compiling locally in this project. This allows using ApeWorX's out-of-the-box `Contract` functionality to query for the events we care about.
 
 Relevant needed contracts are in the `contracts/` folder. Simply
 
