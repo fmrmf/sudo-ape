@@ -13,7 +13,7 @@ Relevant needed contracts are in the `contracts/` folder. Simply
 ape compile
 ```
 
-and the notebook should run fine (eventually 🤞; see TODOs). Then,
+and the notebook should run fine. Then,
 
 ```
 ape notebook
@@ -21,8 +21,6 @@ ape notebook
 
 
 ## TODOs
-
-- [ ] Fix path issues so can use local versions of contracts in `sudo-ape/contracts`
 
 For a given collection address, plot over all existing pools:
 
