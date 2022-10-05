@@ -21,7 +21,7 @@ ape notebook
 
 ## Environment
 
-Example `.env` file included in [`.env.example`]('./.env.example'), which assumes using Alchemy as the network provider:
+Example `.env` file included in [`.env.example`]('.env.example'), which assumes using Alchemy as the network provider:
 
 ```
 $ export WEB3_ALCHEMY_PROJECT_ID=MY_ALCHEMY_PROJECT_ID
