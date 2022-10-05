@@ -19,6 +19,17 @@ and the notebook should run fine. Then,
 ape notebook
 ```
 
+## Environment
+
+Example `.env` file included in [`.env.example`]('./.env.example'), which assumes using Alchemy as the network provider:
+
+```
+$ export WEB3_ALCHEMY_PROJECT_ID=MY_ALCHEMY_PROJECT_ID
+$ export ETHERSCAN_TOKEN=MY_ETHERSCAN_TOKEN
+```
+
+Substitute `WEB3_ALCHEMY_PROJECT_ID` for another environment variable if using a different provider (e.g. [Infura](https://github.com/ApeWorX/ape-infura#quick-usage)).
+
 
 ## TODOs
 
