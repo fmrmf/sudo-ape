@@ -2,6 +2,9 @@
 
 Charts for sudooooo swap using ApeWorX
 
+![](notebook/assets/prices.png)
+![](notebook/assets/counts.png)
+
 
 ## Setup
 
@@ -18,6 +21,7 @@ and the notebook should run fine. Then,
 ```
 ape notebook
 ```
+
 
 ## Environment
 
