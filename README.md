@@ -3,8 +3,9 @@
 Charts for sudooooo swap using ApeWorX
 
 ![](notebook/assets/prices.png)
-![](notebook/assets/counts.png)
 ![](notebook/assets/volumes.png)
+![](notebook/assets/cum_volumes.png)
+![](notebook/assets/avg_prices.png)
 
 
 ## Setup
