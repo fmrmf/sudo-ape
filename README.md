@@ -2,12 +2,22 @@
 
 Charts for sudooooo swap using ApeWorX
 
-![](notebook/assets/prices.png)
-![](notebook/assets/volumes.png)
-![](notebook/assets/avg_prices.png)
-![](notebook/assets/cum_volumes.png)
-![](notebook/assets/cum_fees.png)
+- 0xmons (pool: [0x5caf332dca4e6c9e69d52f320c21e74845353db0](https://etherscan.io/address/0x5caf332dca4e6c9e69d52f320c21e74845353db0))
 
+![](notebook/assets/0x5caf332dca4e6c9e69d52f320c21e74845353db0/prices.png)
+![](notebook/assets/0x5caf332dca4e6c9e69d52f320c21e74845353db0/volumes.png)
+![](notebook/assets/0x5caf332dca4e6c9e69d52f320c21e74845353db0/avg_prices.png)
+![](notebook/assets/0x5caf332dca4e6c9e69d52f320c21e74845353db0/cum_volumes.png)
+![](notebook/assets/0x5caf332dca4e6c9e69d52f320c21e74845353db0/cum_fees.png)
+
+
+- azuki (pool: [0x16F71D593bc6446a16eF84551cF8D76ff5973db1](https://etherscan.io/address/0x16F71D593bc6446a16eF84551cF8D76ff5973db1))
+
+![](notebook/assets/0x16F71D593bc6446a16eF84551cF8D76ff5973db1/prices.png)
+![](notebook/assets/0x16F71D593bc6446a16eF84551cF8D76ff5973db1/volumes.png)
+![](notebook/assets/0x16F71D593bc6446a16eF84551cF8D76ff5973db1/avg_prices.png)
+![](notebook/assets/0x16F71D593bc6446a16eF84551cF8D76ff5973db1/cum_volumes.png)
+![](notebook/assets/0x16F71D593bc6446a16eF84551cF8D76ff5973db1/cum_fees.png)
 
 ## Setup
 
